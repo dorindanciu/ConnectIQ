@@ -1,0 +1,13 @@
+<resources>
+    <bitmaps>
+        <bitmap id="id_monkey" filename="images/monkey.png" />
+        <bitmap id="id_mario_1" filename="images/mario_1.png" />
+        <bitmap id="id_mario_2" filename="images/mario_2.png" />
+        <bitmap id="id_mario_3" filename="images/mario_3.png" />
+        <bitmap id="id_mario_4" filename="images/mario_4.png" />
+        <bitmap id="id_mario_5" filename="images/mario_5.png" />
+        <bitmap id="id_mario_6" filename="images/mario_6.png" />
+        <bitmap id="id_mario_7" filename="images/mario_7.png" />
+        <bitmap id="id_mario_8" filename="images/mario_8.png" />
+    </bitmaps>
+</resources>

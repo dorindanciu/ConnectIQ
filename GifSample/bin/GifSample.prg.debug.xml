@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="source/GifSampleView.mc" lineNum="12" pc="268435458" symbol="callback"/>
+<entry filename="source/GifSampleView.mc" lineNum="17" pc="268435477" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="19" pc="268435520" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="20" pc="268435569" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="21" pc="268435618" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="22" pc="268435667" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="23" pc="268435716" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="24" pc="268435765" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="25" pc="268435814" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="26" pc="268435863" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="28" pc="268435912" symbol="onLayout"/>
+<entry filename="source/GifSampleView.mc" lineNum="34" pc="268435953" symbol="onShow"/>
+<entry filename="source/GifSampleView.mc" lineNum="39" pc="268435995" symbol="onUpdate"/>
+<entry filename="source/GifSampleView.mc" lineNum="40" pc="268436031" symbol="onUpdate"/>
+<entry filename="source/GifSampleView.mc" lineNum="41" pc="268436043" symbol="onUpdate"/>
+<entry filename="source/GifSampleView.mc" lineNum="43" pc="268436094" symbol="onUpdate"/>
+<entry filename="source/GifSampleView.mc" lineNum="49" pc="268436127" symbol="onHide"/>
+<entry filename="source/GifSampleView.mc" lineNum="9" pc="268436833" symbol="&lt;init&gt;"/>
+<entry filename="source/GifSampleMenuDelegate.mc" lineNum="7" pc="268436149" symbol="onMenuItem"/>
+<entry filename="source/GifSampleMenuDelegate.mc" lineNum="8" pc="268436160" symbol="onMenuItem"/>
+<entry filename="source/GifSampleMenuDelegate.mc" lineNum="10" pc="268436195" symbol="onMenuItem"/>
+<entry filename="source/GifSampleApp.mc" lineNum="16" pc="268436229" symbol="getInitialView"/>
+<entry filename="source/GifSampleApp.mc" lineNum="24" pc="268436300" symbol="onMenu"/>
+<entry filename="source/Gif.mc" lineNum="16" pc="268436388" symbol="initialize"/>
+<entry filename="source/Gif.mc" lineNum="17" pc="268436401" symbol="initialize"/>
+<entry filename="source/Gif.mc" lineNum="18" pc="268436412" symbol="initialize"/>
+<entry filename="source/Gif.mc" lineNum="21" pc="268436436" symbol="initialize"/>
+<entry filename="source/Gif.mc" lineNum="22" pc="268436446" symbol="initialize"/>
+<entry filename="source/Gif.mc" lineNum="23" pc="268436456" symbol="initialize"/>
+<entry filename="source/Gif.mc" lineNum="24" pc="268436492" symbol="initialize"/>
+<entry filename="source/Gif.mc" lineNum="29" pc="268436508" symbol="callback"/>
+<entry filename="source/Gif.mc" lineNum="30" pc="268436527" symbol="callback"/>
+<entry filename="source/Gif.mc" lineNum="31" pc="268436547" symbol="callback"/>
+<entry filename="source/Gif.mc" lineNum="33" pc="268436563" symbol="callback"/>
+<entry filename="source/Gif.mc" lineNum="34" pc="268436602" symbol="callback"/>
+<entry filename="source/Gif.mc" lineNum="38" pc="268436623" symbol="start"/>
+<entry filename="source/Gif.mc" lineNum="39" pc="268436633" symbol="start"/>
+<entry filename="source/Gif.mc" lineNum="43" pc="268436674" symbol="stop"/>
+<entry filename="source/Gif.mc" lineNum="48" pc="268436695" symbol="draw"/>
+<entry filename="Rez" lineNum="12" pc="268436731" symbol="initialize"/>
+<entry filename="Rez" lineNum="13" pc="268436753" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268436868" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="21" pc="268436877" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="22" pc="268436886" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="23" pc="268436895" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="24" pc="268436904" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="25" pc="268436913" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="26" pc="268436922" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="27" pc="268436931" symbol="&lt;init&gt;"/>
+<entry filename="Rez" lineNum="28" pc="268436940" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="33317" symbol="&lt;gre&gt;"/>
+<entry id="33113" symbol="mMode"/>
+<entry field="true" id="32895" symbol="SPORT_RUNNING"/>
+<entry id="32806" method="true" symbol="emptyMailbox"/>
+<entry id="33334" module="true" symbol="Ant"/>
+<entry field="true" id="33250" symbol="calories"/>
+<entry field="true" id="33344" symbol="MSG_ID_CHANNEL_TRANSMIT_POWER"/>
+<entry id="33105" object="true" symbol="Text"/>
+<entry id="33095" method="true" symbol="switchToView"/>
+<entry id="32791" module="true" symbol="ActivityRecording"/>
+<entry id="32789" module="true" symbol="Application"/>
+<entry id="32790" module="true" symbol="Communications"/>
+<entry id="33288" symbol="december"/>
+<entry field="true" id="33345" symbol="MSG_ID_LOW_PRIORITY_SEARCH_TIMEOUT"/>
+<entry field="true" id="32883" symbol="SENSOR_BIKECADENCE"/>
+<entry id="33320" symbol="&lt;ita&gt;"/>
+<entry id="33175" module="true" symbol="Gregorian"/>
+<entry field="true" id="33100" symbol="POP_VIEW"/>
+<entry field="true" id="33251" symbol="currentSpeed"/>
+<entry id="33274" symbol="radians"/>
+<entry id="33218" method="true" symbol="testTypeCreation"/>
+<entry field="true" id="32916" symbol="SUB_SPORT_STREET"/>
+<entry id="2" module="true" symbol="globals_Rez"/>
+<entry field="true" id="33050" symbol="KEY_RIGHT"/>
+<entry field="true" id="32964" symbol="COLOR_ORANGE"/>
+<entry id="33424" method="true" symbol="testContinue"/>
+<entry id="32797" module="true" symbol="System"/>
+<entry field="true" id="32940" symbol="SUB_SPORT_CARDIO_TRAINING"/>
+<entry id="33316" symbol="&lt;deu&gt;"/>
+<entry id="32803" method="true" symbol="makeImageRequest"/>
+<entry id="16" module="true" symbol="Menus"/>
+<entry id="3" module="true" symbol="globals_Rez_Drawables"/>
+<entry id="32775" module="true" symbol="Toybox_Position"/>
+<entry id="33312" symbol="&lt;dut&gt;"/>
+<entry id="32805" method="true" symbol="getMailbox"/>
+<entry id="32889" method="true" symbol="enableSensorEvents"/>
+<entry field="true" id="33263" symbol="currentCadence"/>
+<entry id="32773" module="true" symbol="Toybox_Application"/>
+<entry id="33195" method="true" symbol="compare"/>
+<entry id="33067" object="true" symbol="SwipeEvent"/>
+<entry field="true" id="33156" symbol="BEHAVIOR_PREVIOUS_PAGE"/>
+<entry field="true" id="32956" symbol="FONT_MEDIUM"/>
+<entry id="33205" method="true" symbol="testAdd"/>
+<entry id="33130" method="true" symbol="getDirection"/>
+<entry id="33152" method="true" symbol="onSwipe"/>
+<entry id="33386" symbol="measurementType"/>
+<entry id="33024" method="true" symbol="method"/>
+<entry id="33400" symbol="mHiddenData"/>
+<entry id="33208" method="true" symbol="testDiv"/>
+<entry field="true" id="32841" symbol="QUALITY_POOR"/>
+<entry id="33220" method="true" symbol="testBooleanOperations"/>
+<entry id="33076" object="true" symbol="Menu"/>
+<entry id="33322" symbol="&lt;pol&gt;"/>
+<entry id="32854" symbol="lon"/>
+<entry field="true" id="33080" symbol="NUMBER_PICKER_TIME_MIN_SEC"/>
+<entry id="33073" object="true" symbol="View"/>
+<entry id="32828" method="true" symbol="log"/>
+<entry id="33150" method="true" symbol="onHold"/>
+<entry field="true" id="33255" symbol="currentPower"/>
+<entry id="32994" method="true" symbol="getTextWidthInPixels"/>
+<entry id="33111" method="true" symbol="setLocation"/>
+<entry id="33321" symbol="&lt;nob&gt;"/>
+<entry id="33204" method="true" symbol="testAbs"/>
+<entry field="true" id="33178" symbol="SECONDS_PER_YEAR"/>
+<entry id="33147" method="true" symbol="getType"/>
+<entry id="32786" module="true" symbol="Toybox_Activity"/>
+<entry id="32977" method="true" symbol="clear"/>
+<entry field="true" id="32951" symbol="subSport"/>
+<entry field="true" id="32893" symbol="pressure"/>
+<entry id="32849" method="true" symbol="enableLocationEvents"/>
+<entry id="32984" method="true" symbol="drawLine"/>
+<entry id="33389" symbol="timestamp"/>
+<entry id="32941" method="true" symbol="createSession"/>
+<entry id="32772" module="true" symbol="Toybox_Communications"/>
+<entry field="true" id="33340" symbol="MSG_ID_SEARCH_TIMEOUT"/>
+<entry id="33102" method="true" symbol="pageCtrlNative"/>
+<entry id="32801" module="true" symbol="Test"/>
+<entry field="true" id="32901" symbol="SPORT_SOCCER"/>
+<entry id="31" symbol="_currentIdx"/>
+<entry field="true" id="32859" symbol="speed"/>
+<entry field="true" id="32835" symbol="GEO_DEG"/>
+<entry id="33177" symbol="dayHash"/>
+<entry field="true" id="33127" symbol="behavior"/>
+<entry field="true" id="33387" symbol="rssi"/>
+<entry id="33129" symbol="mDirection"/>
+<entry id="33391" method="true" symbol="setPayload"/>
+<entry field="true" id="32860" symbol="altitude"/>
+<entry field="true" id="33339" symbol="MSG_ID_CHANNEL_PERIOD"/>
+<entry id="32990" method="true" symbol="drawText"/>
+<entry id="33141" symbol="mBitmapData"/>
+<entry field="true" id="32897" symbol="SPORT_TRANSITION"/>
+<entry id="32782" module="true" symbol="Toybox_Time"/>
+<entry field="true" id="32912" symbol="SPORT_MULTISPORT"/>
+<entry id="32824" method="true" symbol="acos"/>
+<entry field="true" id="32952" symbol="name"/>
+<entry id="33009" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="33056" symbol="ANIM_TYPE_EASE_OUT"/>
+<entry id="33194" method="true" symbol="subtract"/>
+<entry id="33297" symbol="second"/>
+<entry field="true" id="33366" symbol="MSG_CODE_INVALID_MESSAGE"/>
+<entry id="33068" method="true" symbol="animate"/>
+<entry field="true" id="32882" symbol="SENSOR_BIKESPEED"/>
+<entry field="true" id="33159" symbol="BEHAVIOR_ON_NEXT_MODE"/>
+<entry id="33197" method="true" symbol="greaterThan"/>
+<entry id="33153" method="true" symbol="handleEvent"/>
+<entry id="33239" method="true" symbol="callback2"/>
+<entry field="true" id="32771" module="true" symbol="Toybox"/>
+<entry id="33238" method="true" symbol="callback1"/>
+<entry id="32945" method="true" symbol="stop"/>
+<entry field="true" id="32919" symbol="SUB_SPORT_SPIN"/>
+<entry id="33210" method="true" symbol="testBitwiseOr"/>
+<entry id="33278" symbol="february"/>
+<entry field="true" id="32902" symbol="SPORT_TENNIS"/>
+<entry field="true" id="33260" symbol="currentHeartRate"/>
+<entry field="true" id="33054" symbol="ANIM_TYPE_LINEAR"/>
+<entry id="33187" method="true" symbol="info"/>
+<entry id="33373" object="true" symbol="DeviceConfig"/>
+<entry id="33075" method="true" symbol="requestUpdate"/>
+<entry field="true" id="33045" symbol="KEY_MENU"/>
+<entry id="33036" method="true" symbol="toLower"/>
+<entry field="true" id="33248" symbol="currentLocationAccuracy"/>
+<entry id="33219" method="true" symbol="testTypeConversion"/>
+<entry id="33193" method="true" symbol="add"/>
+<entry id="32993" method="true" symbol="getHeight"/>
+<entry id="32770" symbol="statics"/>
+<entry id="33217" method="true" symbol="testGreaterThanEqual"/>
+<entry id="33207" method="true" symbol="testMul"/>
+<entry field="true" id="33362" symbol="MSG_CODE_EVENT_RX_FAIL_GO_TO_SEARCH"/>
+<entry id="33412" method="true" symbol="onComplete"/>
+<entry id="33015" method="true" symbol="toLong"/>
+<entry id="32795" module="true" symbol="Position"/>
+<entry id="32987" method="true" symbol="fillPolygon"/>
+<entry field="true" id="33349" symbol="MSG_ID_OPEN_CHANNEL"/>
+<entry field="true" id="32954" symbol="FONT_TINY"/>
+<entry id="33183" symbol="getDayHash"/>
+<entry id="33305" symbol="color"/>
+<entry field="true" id="32957" symbol="FONT_LARGE"/>
+<entry field="true" id="33052" symbol="KEY_UP_LEFT"/>
+<entry field="true" id="32886" symbol="SENSOR_STRIDE"/>
+<entry id="32" symbol="_didUpdateCallback"/>
+<entry id="33227" method="true" symbol="testLocationSemicircles"/>
+<entry field="true" id="33355" symbol="MSG_CODE_EVENT_RX_SEARCH_TIMEOUT"/>
+<entry field="true" id="32917" symbol="SUB_SPORT_TRAIL"/>
+<entry field="true" id="33342" symbol="MSG_ID_NETWORK_KEY"/>
+<entry id="33012" method="true" symbol="abs"/>
+<entry id="33149" method="true" symbol="onTap"/>
+<entry id="32997" object="true" symbol="Long"/>
+<entry id="33196" method="true" symbol="lessThan"/>
+<entry field="true" id="14" symbol="image"/>
+<entry field="true" id="33378" symbol="DATA_PAYLOAD_LENGTH"/>
+<entry id="32988" method="true" symbol="fillRectangle"/>
+<entry id="32850" object="true" symbol="Info"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry id="32865" object="true" symbol="Stats"/>
+<entry field="true" id="32953" symbol="FONT_XTINY"/>
+<entry id="32989" method="true" symbol="fillRoundedRectangle"/>
+<entry field="true" id="33421" symbol="DEFAULT_SEARCH_TIMEOUT_HIGH"/>
+<entry id="33282" symbol="june"/>
+<entry field="true" id="32894" symbol="SPORT_GENERIC"/>
+<entry field="true" id="33047" symbol="KEY_DOWN_LEFT"/>
+<entry id="33165" method="true" symbol="onNextMode"/>
+<entry id="32815" method="true" symbol="onStart"/>
+<entry field="true" id="33376" symbol="channelType"/>
+<entry id="32986" method="true" symbol="fillEllipse"/>
+<entry id="33093" method="true" symbol="pushView"/>
+<entry field="true" id="32863" symbol="when"/>
+<entry id="33163" method="true" symbol="onMenu"/>
+<entry id="32888" method="true" symbol="setEnabledSensors"/>
+<entry id="32787" module="true" symbol="Activity"/>
+<entry id="33319" symbol="&lt;hrv&gt;"/>
+<entry id="32825" method="true" symbol="asin"/>
+<entry id="5" module="true" symbol="globals_Rez_Fonts"/>
+<entry field="true" id="33082" symbol="NUMBER_PICKER_WEIGHT"/>
+<entry id="33287" symbol="november"/>
+<entry id="33283" symbol="july"/>
+<entry field="true" id="32890" symbol="cadence"/>
+<entry id="33006" object="true" symbol="Dictionary"/>
+<entry id="32779" module="true" symbol="Toybox_Graphics"/>
+<entry id="33005" object="true" symbol="Method"/>
+<entry field="true" id="33042" symbol="KEY_ENTER"/>
+<entry field="true" id="33417" symbol="DEFAULT_TRANSMISSION_TYPE"/>
+<entry id="11" object="true" symbol="GifSampleApp"/>
+<entry field="true" id="33053" symbol="KEY_UP_RIGHT"/>
+<entry field="true" id="32880" symbol="freeMemory"/>
+<entry id="33162" method="true" symbol="onPreviousPage"/>
+<entry id="32869" method="true" symbol="getClockTime"/>
+<entry id="33013" method="true" symbol="toNumber"/>
+<entry id="33313" symbol="&lt;eng&gt;"/>
+<entry field="true" id="32924" symbol="SUB_SPORT_RECUMBENT"/>
+<entry id="33118" method="true" symbol="onUpdate"/>
+<entry field="true" id="32891" symbol="heartRate"/>
+<entry id="33214" method="true" symbol="testLessThan"/>
+<entry id="33409" method="true" symbol="transmit"/>
+<entry id="7" module="true" symbol="globals_Rez_Strings"/>
+<entry id="32871" method="true" symbol="trap"/>
+<entry field="true" id="32879" symbol="usedMemory"/>
+<entry id="32783" module="true" symbol="Toybox_Time_Gregorian"/>
+<entry id="33300" symbol="hours"/>
+<entry field="true" id="33261" symbol="averageHeartRate"/>
+<entry id="33123" symbol="mJustification"/>
+<entry id="33285" symbol="september"/>
+<entry field="true" id="33084" symbol="NUMBER_PICKER_CALORIES"/>
+<entry field="true" id="33383" symbol="deviceNumber"/>
+<entry id="32999" object="true" symbol="Double"/>
+<entry field="true" id="32929" symbol="SUB_SPORT_ELLIPTICAL"/>
+<entry field="true" id="32969" symbol="COLOR_DK_GREEN"/>
+<entry field="true" id="32960" symbol="COLOR_DK_GRAY"/>
+<entry id="33398" method="true" symbol="sendAcknowledge"/>
+<entry field="true" id="32878" symbol="battery"/>
+<entry id="33086" object="true" symbol="NumberPicker"/>
+<entry id="33199" method="true" symbol="multiply"/>
+<entry field="true" id="33371" symbol="CHANNEL_TYPE_RX_NOT_TX"/>
+<entry field="true" id="32822" symbol="PI"/>
+<entry id="33302" symbol="seconds"/>
+<entry field="true" id="32918" symbol="SUB_SPORT_TRACK"/>
+<entry field="true" id="32932" symbol="SUB_SPORT_OPEN_WATER"/>
+<entry id="33390" method="true" symbol="getPayload"/>
+<entry id="32796" module="true" symbol="Sensor"/>
+<entry id="33176" symbol="monthHash"/>
+<entry id="32834" method="true" symbol="tan"/>
+<entry id="33004" object="true" symbol="Array"/>
+<entry field="true" id="33364" symbol="MSG_CODE_CHANNEL_ID_NOT_SET"/>
+<entry id="33011" method="true" symbol="toFloat"/>
+<entry id="32853" symbol="lat"/>
+<entry id="33374" object="true" symbol="GenericChannel"/>
+<entry field="true" id="32959" symbol="COLOR_LT_GRAY"/>
+<entry id="33380" symbol="dataLow"/>
+<entry field="true" id="33379" symbol="messageId"/>
+<entry id="33324" symbol="&lt;rus&gt;"/>
+<entry field="true" id="33190" symbol="day"/>
+<entry field="true" id="33343" symbol="MSG_ID_TRANSMIT_POWER"/>
+<entry field="true" id="32955" symbol="FONT_SMALL"/>
+<entry id="33172" object="true" symbol="Duration"/>
+<entry id="33215" method="true" symbol="testLessThanEqual"/>
+<entry field="true" id="33180" symbol="SECONDS_PER_HOUR"/>
+<entry field="true" id="33347" symbol="MSG_ID_PROXIMITY_SEARCH"/>
+<entry id="33294" symbol="friday"/>
+<entry id="33201" method="true" symbol="testInstanceof"/>
+<entry id="13" object="true" symbol="Gif"/>
+<entry id="32776" module="true" symbol="Toybox_System"/>
+<entry field="true" id="32935" symbol="SUB_SPORT_WARM_UP"/>
+<entry field="true" id="32973" symbol="TEXT_JUSTIFY_RIGHT"/>
+<entry field="true" id="32921" symbol="SUB_SPORT_ROAD"/>
+<entry id="33001" object="true" symbol="String"/>
+<entry field="true" id="33091" symbol="SLIDE_DOWN"/>
+<entry field="true" id="32920" symbol="SUB_SPORT_INDOOR_CYCLING"/>
+<entry id="10" object="true" symbol="GifSampleMenuDelegate"/>
+<entry id="32821" method="true" symbol="saveProperties"/>
+<entry id="28" symbol="_bitmapResourcesArray"/>
+<entry field="true" id="32881" symbol="totalMemory"/>
+<entry field="true" id="33269" symbol="averageDistance"/>
+<entry id="33192" symbol="mDateTime"/>
+<entry id="33037" method="true" symbol="toUpper"/>
+<entry id="33223" method="true" symbol="testDecr"/>
+<entry field="true" id="32899" symbol="SPORT_SWIMMING"/>
+<entry id="33034" method="true" symbol="find"/>
+<entry field="true" id="33341" symbol="MSG_ID_CHANNEL_RF_FREQUENCY"/>
+<entry id="33184" method="true" symbol="moment"/>
+<entry id="33211" method="true" symbol="testBitwiseXor"/>
+<entry id="33426" method="true" symbol="getFontHeight"/>
+<entry field="true" id="32931" symbol="SUB_SPORT_LAP_SWIMMING"/>
+<entry id="32780" module="true" symbol="Toybox_Lang"/>
+<entry field="true" id="32847" symbol="LOCATION_CONTINUOUS"/>
+<entry id="33276" symbol="semicircles"/>
+<entry field="true" id="33191" symbol="year"/>
+<entry field="true" id="33403" symbol="searchTimeoutLowPriority"/>
+<entry id="32978" method="true" symbol="drawCircle"/>
+<entry id="32817" method="true" symbol="onStop"/>
+<entry id="33027" method="true" symbol="get"/>
+<entry id="33292" symbol="wednesday"/>
+<entry field="true" id="33090" symbol="SLIDE_RIGHT"/>
+<entry field="true" id="33107" symbol="locY"/>
+<entry field="true" id="33106" symbol="locX"/>
+<entry field="true" id="33351" symbol="MSG_ID_BROADCAST_DATA"/>
+<entry id="33408" method="true" symbol="setMailboxListener"/>
+<entry id="33202" method="true" symbol="testInheritanceName"/>
+<entry id="32808" method="true" symbol="next"/>
+<entry id="33030" method="true" symbol="isEmpty"/>
+<entry id="33315" symbol="&lt;fre&gt;"/>
+<entry field="true" id="33046" symbol="KEY_DOWN"/>
+<entry field="true" id="32915" symbol="SUB_SPORT_TREADMILL"/>
+<entry id="34" symbol="item_2"/>
+<entry id="33" symbol="item_1"/>
+<entry field="true" id="33377" symbol="network"/>
+<entry id="32792" module="true" symbol="Graphics"/>
+<entry id="33124" symbol="mColor"/>
+<entry id="32819" method="true" symbol="setProperty"/>
+<entry field="true" id="33132" symbol="MAX_SIZE"/>
+<entry field="true" id="33189" symbol="month"/>
+<entry field="true" id="33356" symbol="MSG_CODE_EVENT_RX_FAIL"/>
+<entry field="true" id="32898" symbol="SPORT_FITNESS_EQUIPMENT"/>
+<entry id="33327" symbol="&lt;spa&gt;"/>
+<entry id="27" object="true" symbol="MainMenu"/>
+<entry id="33026" method="true" symbol="put"/>
+<entry id="32983" method="true" symbol="drawBitmap"/>
+<entry id="32855" method="true" symbol="toDegrees"/>
+<entry field="true" id="33099" symbol="PUSH_VIEW"/>
+<entry id="33206" method="true" symbol="testSub"/>
+<entry field="true" id="32939" symbol="SUB_SPORT_INDOOR_SKIING"/>
+<entry field="true" id="33401" symbol="messagePeriod"/>
+<entry id="33308" module="true" symbol="globals"/>
+<entry field="true" id="33063" symbol="SWIPE_UP"/>
+<entry id="33375" object="true" symbol="Message"/>
+<entry field="true" id="33253" symbol="maxSpeed"/>
+<entry id="33280" symbol="april"/>
+<entry id="32852" method="true" symbol="testInfoString"/>
+<entry field="true" id="32903" symbol="SPORT_AMERICAN_FOOTBALL"/>
+<entry id="33016" symbol="mClass"/>
+<entry id="33185" method="true" symbol="momentNative"/>
+<entry field="true" id="33048" symbol="KEY_DOWN_RIGHT"/>
+<entry id="32794" module="true" symbol="Math"/>
+<entry id="32998" object="true" symbol="Float"/>
+<entry id="33164" method="true" symbol="onBack"/>
+<entry field="true" id="33088" symbol="SLIDE_IMMEDIATE"/>
+<entry field="true" id="33270" symbol="currentHeading"/>
+<entry id="33411" method="true" symbol="onError"/>
+<entry field="true" id="33128" symbol="event"/>
+<entry field="true" id="33259" symbol="totalDescent"/>
+<entry field="true" id="33231" symbol="callbackCalled"/>
+<entry id="32809" symbol="mOffset"/>
+<entry id="33125" symbol="mKey"/>
+<entry id="33240" method="true" symbol="insertString"/>
+<entry field="true" id="33041" symbol="KEY_ZOUT"/>
+<entry field="true" id="32861" symbol="accuracy"/>
+<entry field="true" id="33357" symbol="MSG_CODE_EVENT_TX"/>
+<entry id="32813" symbol="mProperties"/>
+<entry id="33396" method="true" symbol="close"/>
+<entry id="32868" method="true" symbol="getTimer"/>
+<entry id="33010" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="33078" symbol="NUMBER_PICKER_DISTANCE"/>
+<entry field="true" id="33055" symbol="ANIM_TYPE_EASE_IN"/>
+<entry field="true" id="32846" symbol="LOCATION_ONE_SHOT"/>
+<entry id="32872" method="true" symbol="exit"/>
+<entry id="33200" method="true" symbol="divide"/>
+<entry id="33146" method="true" symbol="getCoordinates"/>
+<entry id="33310" symbol="&lt;ces&gt;"/>
+<entry id="33140" method="true" symbol="compute"/>
+<entry id="32778" module="true" symbol="Toybox_ActivityRecording"/>
+<entry id="32830" method="true" symbol="rand"/>
+<entry id="33062" object="true" symbol="ClickEvent"/>
+<entry field="true" id="33245" symbol="elapsedTime"/>
+<entry id="33395" method="true" symbol="open"/>
+<entry field="true" id="33138" symbol="identifier"/>
+<entry id="6" module="true" symbol="globals_Rez_Layouts"/>
+<entry field="true" id="33358" symbol="MSG_CODE_EVENT_TRANSFER_RX_FAILED"/>
+<entry id="33307" symbol="justification"/>
+<entry field="true" id="32923" symbol="SUB_SPORT_DOWNHILL"/>
+<entry field="true" id="33257" symbol="maxPower"/>
+<entry id="32785" module="true" symbol="Toybox_Test"/>
+<entry id="33077" object="true" symbol="MenuInputDelegate"/>
+<entry id="33233" method="true" symbol="callback"/>
+<entry id="33272" symbol="latitude"/>
+<entry id="33228" method="true" symbol="testSystemError"/>
+<entry id="33226" method="true" symbol="testLocationDegree"/>
+<entry id="33326" symbol="&lt;slv&gt;"/>
+<entry field="true" id="33254" symbol="currentPace"/>
+<entry id="33103" object="true" symbol="Drawable"/>
+<entry field="true" id="33061" symbol="CLICK_TYPE_RELEASE"/>
+<entry field="true" id="33160" symbol="BEHAVIOR_ON_PREVIOUS_MODE"/>
+<entry id="33277" symbol="january"/>
+<entry id="33167" method="true" symbol="onMenuItem"/>
+<entry id="33289" symbol="sunday"/>
+<entry field="true" id="32974" symbol="TEXT_JUSTIFY_CENTER"/>
+<entry id="33112" method="true" symbol="setSize"/>
+<entry id="32867" method="true" symbol="print"/>
+<entry field="true" id="33235" symbol="count2"/>
+<entry field="true" id="33234" symbol="count1"/>
+<entry id="33318" symbol="&lt;hun&gt;"/>
+<entry id="33182" symbol="getMonthHash"/>
+<entry field="true" id="33044" symbol="KEY_FIND"/>
+<entry id="33007" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="33157" symbol="BEHAVIOR_ON_MENU"/>
+<entry id="33097" object="true" symbol="FontResource"/>
+<entry id="33003" object="true" symbol="Symbol"/>
+<entry field="true" id="32925" symbol="SUB_SPORT_CYCLOCROSS"/>
+<entry id="32807" object="true" symbol="Object"/>
+<entry id="32976" object="true" symbol="Dc"/>
+<entry id="32829" method="true" symbol="pow"/>
+<entry field="true" id="33369" symbol="NETWORK_PLUS"/>
+<entry field="true" id="32910" symbol="SPORT_MOUNTAINEERING"/>
+<entry field="true" id="33244" symbol="startTime"/>
+<entry field="true" id="32876" symbol="min"/>
+<entry field="true" id="33336" symbol="MSG_ID_UNASSIGN_CHANNEL"/>
+<entry id="32814" symbol="mPropertiesChanged"/>
+<entry field="true" id="32975" symbol="TEXT_JUSTIFY_LEFT"/>
+<entry id="33174" method="true" symbol="today"/>
+<entry field="true" id="33361" symbol="MSG_CODE_EVENT_CHANNEL_CLOSED"/>
+<entry id="33221" method="true" symbol="testObjectLock"/>
+<entry id="33136" method="true" symbol="addItem"/>
+<entry field="true" id="32958" symbol="COLOR_WHITE"/>
+<entry field="true" id="32968" symbol="COLOR_GREEN"/>
+<entry field="true" id="32950" symbol="sport"/>
+<entry id="33171" object="true" symbol="Moment"/>
+<entry field="true" id="32905" symbol="SPORT_WALKING"/>
+<entry field="true" id="33337" symbol="MSG_ID_ASSIGN_CHANNEL"/>
+<entry field="true" id="32914" symbol="SUB_SPORT_GENERIC"/>
+<entry field="true" id="26" symbol="id_mario_8"/>
+<entry field="true" id="25" symbol="id_mario_7"/>
+<entry id="33293" symbol="thursday"/>
+<entry field="true" id="24" symbol="id_mario_6"/>
+<entry field="true" id="23" symbol="id_mario_5"/>
+<entry id="32985" method="true" symbol="fillCircle"/>
+<entry field="true" id="22" symbol="id_mario_4"/>
+<entry id="33198" method="true" symbol="value"/>
+<entry id="33074" object="true" symbol="SimpleField"/>
+<entry field="true" id="21" symbol="id_mario_3"/>
+<entry field="true" id="20" symbol="id_mario_2"/>
+<entry id="32784" module="true" symbol="Toybox_Timer"/>
+<entry field="true" id="19" symbol="id_mario_1"/>
+<entry field="true" id="33139" symbol="label"/>
+<entry field="true" id="32972" symbol="COLOR_TRANSPARENT"/>
+<entry field="true" id="33370" symbol="CHANNEL_TYPE_TX_NOT_RX"/>
+<entry id="32781" module="true" symbol="Toybox_WatchUi"/>
+<entry id="33087" object="true" symbol="NumberPickerDelegate"/>
+<entry id="33096" method="true" symbol="setUpdateRate"/>
+<entry id="33306" symbol="font"/>
+<entry id="33031" method="true" symbol="keys"/>
+<entry id="32816" method="true" symbol="getInitialView"/>
+<entry field="true" id="32934" symbol="SUB_SPORT_STRENGTH_TRAINING"/>
+<entry field="true" id="32922" symbol="SUB_SPORT_MOUNTAIN"/>
+<entry field="true" id="33354" symbol="MSG_CODE_RESPONSE_NO_ERROR"/>
+<entry id="33381" symbol="dataHigh"/>
+<entry id="32800" module="true" symbol="WatchUi"/>
+<entry field="true" id="32907" symbol="SPORT_ALPINE_SKIING"/>
+<entry field="true" id="33415" symbol="DEFAULT_DEVICE_NUMBER"/>
+<entry id="32833" method="true" symbol="srand"/>
+<entry field="true" id="33169" symbol="FORMAT_MEDIUM"/>
+<entry field="true" id="33060" symbol="CLICK_TYPE_HOLD"/>
+<entry field="true" id="33368" symbol="NETWORK_PUBLIC"/>
+<entry id="33098" object="true" symbol="BitmapResource"/>
+<entry field="true" id="32906" symbol="SPORT_CROSS_COUNTRY_SKIING"/>
+<entry field="true" id="32858" symbol="position"/>
+<entry id="33388" symbol="thresholdConfiguration"/>
+<entry id="33151" method="true" symbol="onRelease"/>
+<entry id="12" object="true" symbol="GifSampleDelegate"/>
+<entry id="32864" object="true" symbol="ClockTime"/>
+<entry id="32942" object="true" symbol="Symbols"/>
+<entry field="true" id="33247" symbol="elapsedDistance"/>
+<entry id="33145" symbol="mType"/>
+<entry field="true" id="32892" symbol="temperature"/>
+<entry id="33122" symbol="mFont"/>
+<entry id="33022" symbol="mLow"/>
+<entry field="true" id="33179" symbol="SECONDS_PER_DAY"/>
+<entry field="true" id="33092" symbol="SLIDE_UP"/>
+<entry id="32844" object="true" symbol="Location"/>
+<entry id="32870" method="true" symbol="getSystemStats"/>
+<entry field="true" id="33065" symbol="SWIPE_DOWN"/>
+<entry id="33071" object="true" symbol="InputDelegate"/>
+<entry field="true" id="32875" symbol="hour"/>
+<entry id="33394" method="true" symbol="setDeviceConfig"/>
+<entry id="32851" method="true" symbol="getInfo"/>
+<entry field="true" id="32938" symbol="SUB_SPORT_CHALLENGE"/>
+<entry field="true" id="33101" symbol="SWITCH_VIEW"/>
+<entry field="true" id="32933" symbol="SUB_SPORT_FLEXIBILITY_TRAINING"/>
+<entry id="33325" symbol="&lt;slo&gt;"/>
+<entry id="33303" symbol="rezId"/>
+<entry field="true" id="33059" symbol="CLICK_TYPE_TAP"/>
+<entry field="true" id="32884" symbol="SENSOR_FOOTPOD"/>
+<entry field="true" id="33154" symbol="BEHAVIOR_NONE"/>
+<entry id="32777" module="true" symbol="Toybox_Sensor"/>
+<entry id="33019" method="true" symbol="hashCode"/>
+<entry id="33275" symbol="degrees"/>
+<entry field="true" id="32862" symbol="heading"/>
+<entry id="33025" method="true" symbol="equals"/>
+<entry field="true" id="33350" symbol="MSG_ID_CLOSE_CHANNEL"/>
+<entry id="32949" method="true" symbol="discard"/>
+<entry id="33311" symbol="&lt;dan&gt;"/>
+<entry field="true" id="32904" symbol="SPORT_TRAINING"/>
+<entry field="true" id="33249" symbol="currentLocation"/>
+<entry field="true" id="33265" symbol="maxCadence"/>
+<entry id="33296" symbol="minute"/>
+<entry field="true" id="33338" symbol="MSG_ID_CHANNEL_ID"/>
+<entry field="true" id="32900" symbol="SPORT_BASKETBALL"/>
+<entry id="32827" method="true" symbol="cos"/>
+<entry id="32818" method="true" symbol="getProperty"/>
+<entry id="33137" symbol="Toybox_WatchUi_Menu"/>
+<entry id="33222" method="true" symbol="testIncr"/>
+<entry id="33229" method="true" symbol="testDuration"/>
+<entry field="true" id="33089" symbol="SLIDE_LEFT"/>
+<entry id="33271" symbol="aMethod"/>
+<entry field="true" id="32930" symbol="SUB_SPORT_STAIR_CLIMBING"/>
+<entry id="33014" method="true" symbol="toDouble"/>
+<entry id="33410" object="true" symbol="ConnectionListener"/>
+<entry id="32944" method="true" symbol="start"/>
+<entry field="true" id="33181" symbol="SECONDS_PER_MINUTE"/>
+<entry id="33281" symbol="may"/>
+<entry field="true" id="33419" symbol="DEFAULT_RADIO_FREQUENCY"/>
+<entry field="true" id="33108" symbol="width"/>
+<entry id="33161" method="true" symbol="onNextPage"/>
+<entry field="true" id="32842" symbol="QUALITY_USABLE"/>
+<entry field="true" id="32839" symbol="QUALITY_NOT_AVAILABLE"/>
+<entry field="true" id="33252" symbol="averageSpeed"/>
+<entry field="true" id="33267" symbol="swimSwolf"/>
+<entry id="33032" method="true" symbol="values"/>
+<entry id="33104" object="true" symbol="Bitmap"/>
+<entry id="33023" symbol="mHigh"/>
+<entry field="true" id="33188" symbol="day_of_week"/>
+<entry id="32798" module="true" symbol="Time"/>
+<entry id="32845" method="true" symbol="parse"/>
+<entry id="33144" symbol="mY"/>
+<entry field="true" id="33057" symbol="ANIM_TYPE_EASE_IN_OUT"/>
+<entry id="33143" symbol="mX"/>
+<entry field="true" id="32967" symbol="COLOR_DK_YELLOW"/>
+<entry id="32982" method="true" symbol="drawRoundedRectangle"/>
+<entry field="true" id="32843" symbol="QUALITY_GOOD"/>
+<entry field="true" id="33367" symbol="MSG_CODE_EVENT_QUE_OVERFLOW"/>
+<entry field="true" id="32896" symbol="SPORT_CYCLING"/>
+<entry field="true" id="33049" symbol="KEY_LEFT"/>
+<entry id="30" symbol="_timer"/>
+<entry field="true" id="33258" symbol="totalAscent"/>
+<entry field="true" id="32908" symbol="SPORT_SNOWBOARDING"/>
+<entry field="true" id="33243" symbol="startLocation"/>
+<entry field="true" id="32836" symbol="GEO_DM"/>
+<entry id="9" object="true" symbol="GifSampleView"/>
+<entry id="33382" symbol="flag"/>
+<entry id="33021" method="true" symbol="toString"/>
+<entry id="33286" symbol="october"/>
+<entry field="true" id="33043" symbol="KEY_ESC"/>
+<entry field="true" id="33155" symbol="BEHAVIOR_NEXT_PAGE"/>
+<entry field="true" id="33158" symbol="BEHAVIOR_ON_BACK"/>
+<entry id="33148" method="true" symbol="onKey"/>
+<entry field="true" id="33418" symbol="DEFAULT_MESSAGE_PERIOD"/>
+<entry field="true" id="33359" symbol="MSG_CODE_EVENT_TRANSFER_TX_COMPLETED"/>
+<entry field="true" id="32840" symbol="QUALITY_LAST_KNOWN"/>
+<entry id="33397" method="true" symbol="release"/>
+<entry id="33116" method="true" symbol="onLayout"/>
+<entry id="33393" method="true" symbol="getDeviceConfig"/>
+<entry id="33372" object="true" symbol="ChannelAssignment"/>
+<entry id="33333" module="true" symbol="Toybox_Ant"/>
+<entry id="33133" object="true" symbol="MenuItem"/>
+<entry field="true" id="33402" symbol="radioFrequency"/>
+<entry field="true" id="33064" symbol="SWIPE_RIGHT"/>
+<entry field="true" id="32962" symbol="COLOR_RED"/>
+<entry id="33232" method="true" symbol="getCallback"/>
+<entry field="true" id="33256" symbol="averagePower"/>
+<entry id="32826" method="true" symbol="atan"/>
+<entry field="true" id="32961" symbol="COLOR_BLACK"/>
+<entry field="true" id="32913" symbol="SPORT_PADDLING"/>
+<entry id="33273" symbol="longitude"/>
+<entry field="true" id="15" symbol="array"/>
+<entry id="32856" method="true" symbol="toRadians"/>
+<entry id="33166" method="true" symbol="onPreviousMode"/>
+<entry field="true" id="32927" symbol="SUB_SPORT_TRACK_CYCLING"/>
+<entry id="32820" method="true" symbol="loadProperties"/>
+<entry field="true" id="33246" symbol="timerTime"/>
+<entry field="true" id="33268" symbol="swimEfficency"/>
+<entry id="33186" method="true" symbol="duration"/>
+<entry field="true" id="33416" symbol="DEFAULT_DEVICE_TYPE"/>
+<entry id="33242" method="true" symbol="getActivityInfo"/>
+<entry field="true" id="33264" symbol="averageCadence"/>
+<entry field="true" id="33237" symbol="timer2"/>
+<entry id="33284" symbol="august"/>
+<entry field="true" id="33236" symbol="timer1"/>
+<entry field="true" id="33040" symbol="KEY_ZIN"/>
+<entry id="33110" method="true" symbol="draw"/>
+<entry id="32943" object="true" symbol="Session"/>
+<entry id="32831" method="true" symbol="sin"/>
+<entry field="true" id="33422" symbol="DEFAULT_THRESHOLD"/>
+<entry field="true" id="33365" symbol="MSG_CODE_TRANSFER_IN_PROGRESS"/>
+<entry field="true" id="33085" symbol="NUMBER_PICKER_BIRTH_YEAR"/>
+<entry id="29" symbol="_size"/>
+<entry id="32788" symbol="&lt;init&gt;"/>
+<entry id="33213" method="true" symbol="testShiftR"/>
+<entry id="33209" method="true" symbol="testBitwiseAnd"/>
+<entry id="33173" method="true" symbol="now"/>
+<entry id="33018" method="true" symbol="invoke"/>
+<entry field="true" id="32911" symbol="SPORT_HIKING"/>
+<entry id="4" module="true" symbol="globals_Rez_Menus"/>
+<entry id="33212" method="true" symbol="testShiftL"/>
+<entry id="33203" method="true" symbol="testSubstringAndFind"/>
+<entry id="32979" method="true" symbol="drawEllipse"/>
+<entry id="32804" object="true" symbol="MailboxIterator"/>
+<entry field="true" id="33168" symbol="FORMAT_SHORT"/>
+<entry id="33029" method="true" symbol="remove"/>
+<entry field="true" id="32838" symbol="GEO_MGRS"/>
+<entry field="true" id="33051" symbol="KEY_UP"/>
+<entry id="33020" method="true" symbol="size"/>
+<entry id="33423" method="true" symbol="testBreak"/>
+<entry id="33070" object="true" symbol="InputEvent"/>
+<entry id="32866" method="true" symbol="println"/>
+<entry id="33072" object="true" symbol="BehaviorDelegate"/>
+<entry id="33000" object="true" symbol="Boolean"/>
+<entry field="true" id="32966" symbol="COLOR_YELLOW"/>
+<entry id="33216" method="true" symbol="testGreaterThan"/>
+<entry id="32774" module="true" symbol="Toybox_Math"/>
+<entry id="33115" symbol="mLayout"/>
+<entry id="33290" symbol="monday"/>
+<entry id="33301" symbol="minutes"/>
+<entry field="true" id="33353" symbol="MSG_ID_CHANNEL_RESPONSE_EVENT"/>
+<entry id="33314" symbol="&lt;fin&gt;"/>
+<entry id="32812" object="true" symbol="AppBase"/>
+<entry field="true" id="33079" symbol="NUMBER_PICKER_TIME"/>
+<entry id="32799" module="true" object="true" symbol="Timer"/>
+<entry id="33008" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="33109" symbol="height"/>
+<entry id="33135" symbol="mSize"/>
+<entry field="true" id="32848" symbol="LOCATION_DISABLE"/>
+<entry field="true" id="32963" symbol="COLOR_DK_RED"/>
+<entry field="true" id="32936" symbol="SUB_SPORT_MATCH"/>
+<entry id="33126" method="true" symbol="getKey"/>
+<entry id="32996" object="true" symbol="Number"/>
+<entry field="true" id="33352" symbol="MSG_ID_ACKNOWLEDGED_DATA"/>
+<entry field="true" id="33363" symbol="MSG_CODE_CHANNEL_IN_WRONG_STATE"/>
+<entry field="true" id="33360" symbol="MSG_CODE_EVENT_TRANSFER_TX_FAILED"/>
+<entry id="32857" method="true" symbol="toGeoString"/>
+<entry id="33230" method="true" symbol="testMoment"/>
+<entry id="33330" object="true" symbol="DataField"/>
+<entry id="33114" symbol="mInitialValue"/>
+<entry field="true" id="33039" symbol="KEY_LIGHT"/>
+<entry field="true" id="33384" symbol="deviceType"/>
+<entry field="true" id="33348" symbol="MSG_ID_RESET_SYSTEM"/>
+<entry field="true" id="32937" symbol="SUB_SPORT_EXERCISE"/>
+<entry id="32992" method="true" symbol="getWidth"/>
+<entry id="33094" method="true" symbol="popView"/>
+<entry field="true" id="33420" symbol="DEFAULT_SEARCH_TIMEOUT_LOW"/>
+<entry id="33131" method="true" symbol="onNumberPicked"/>
+<entry field="true" id="32877" symbol="sec"/>
+<entry field="true" id="33335" symbol="MSG_ID_RF_EVENT"/>
+<entry id="32995" symbol="mDrawContext"/>
+<entry field="true" id="18" symbol="id_monkey"/>
+<entry id="33117" method="true" symbol="onShow"/>
+<entry field="true" id="33404" symbol="searchTimeoutHighPriority"/>
+<entry field="true" id="8" symbol="marioGif"/>
+<entry id="33392" symbol="setPayloadWithOffset"/>
+<entry field="true" id="32971" symbol="COLOR_PURPLE"/>
+<entry id="32980" method="true" symbol="drawPoint"/>
+<entry id="33399" method="true" symbol="sendBroadcast"/>
+<entry field="true" id="32926" symbol="SUB_SPORT_HAND_CYCLING"/>
+<entry id="33225" method="true" symbol="testLocationRadians"/>
+<entry field="true" id="33038" symbol="KEY_POWER"/>
+<entry field="true" id="33385" symbol="transmissionType"/>
+<entry id="32948" method="true" symbol="save"/>
+<entry id="33142" method="true" symbol="getDimensions"/>
+<entry field="true" id="32965" symbol="COLOR_DK_ORANGE"/>
+<entry id="33035" method="true" symbol="substring"/>
+<entry id="32811" method="true" symbol="getApp"/>
+<entry id="33017" symbol="mMethod"/>
+<entry field="true" id="33081" symbol="NUMBER_PICKER_TIME_OF_DAY"/>
+<entry id="33295" symbol="saturday"/>
+<entry id="33406" symbol="i"/>
+<entry field="true" id="32885" symbol="SENSOR_HEARTRATE"/>
+<entry field="true" id="33346" symbol="MSG_ID_LIB_CONFIG"/>
+<entry id="33058" object="true" symbol="KeyEvent"/>
+<entry field="true" id="32928" symbol="SUB_SPORT_INDOOR_ROWING"/>
+<entry field="true" id="32909" symbol="SPORT_ROWING"/>
+<entry field="true" id="33266" symbol="swimStrokeType"/>
+<entry id="32873" method="true" symbol="error"/>
+<entry field="true" id="33033" method="true" symbol="length"/>
+<entry id="32802" method="true" symbol="makeJsonRequest"/>
+<entry id="33028" method="true" symbol="hasKey"/>
+<entry id="33323" symbol="&lt;por&gt;"/>
+<entry field="true" id="33083" symbol="NUMBER_PICKER_HEIGHT"/>
+<entry id="32810" method="true" symbol="initialize"/>
+<entry field="true" id="32837" symbol="GEO_DMS"/>
+<entry field="true" id="32887" symbol="SENSOR_TEMPERATURE"/>
+<entry field="true" id="32823" symbol="E"/>
+<entry id="33241" method="true" symbol="insertWithPut"/>
+<entry id="32991" method="true" symbol="setColor"/>
+<entry id="33134" symbol="mItems"/>
+<entry id="32947" method="true" symbol="isRecording"/>
+<entry id="33304" symbol="text"/>
+<entry field="true" id="33262" symbol="maxHeartRate"/>
+<entry id="32981" method="true" symbol="drawRectangle"/>
+<entry id="33299" symbol="days"/>
+<entry field="true" id="33170" symbol="FORMAT_LONG"/>
+<entry id="32832" method="true" symbol="sqrt"/>
+<entry id="33328" symbol="&lt;swe&gt;"/>
+<entry field="true" id="32970" symbol="COLOR_BLUE"/>
+<entry id="33298" symbol="years"/>
+<entry id="33309" symbol="&lt;valyrian&gt;"/>
+<entry id="33002" method="true" symbol="format"/>
+<entry id="33069" method="true" symbol="loadResource"/>
+<entry id="32946" method="true" symbol="addLap"/>
+<entry id="33413" method="true" symbol="testFetchRegister"/>
+<entry id="33279" symbol="march"/>
+<entry id="32793" module="true" symbol="Lang"/>
+<entry id="33291" symbol="tuesday"/>
+<entry field="true" id="33066" symbol="SWIPE_LEFT"/>
+<entry id="33224" method="true" symbol="testNaN"/>
+<entry field="true" id="32874" symbol="dst"/>
+<entry id="33119" method="true" symbol="onHide"/>
+<entry id="33331" object="true" symbol="SimpleDataField"/>
+<entry id="33121" symbol="mText"/>
+<entry field="true" id="33405" symbol="searchThreshold"/>
+<entry id="33120" method="true" symbol="setLayout"/>
+</symbolTable>
+<localVars/>
+<annotations/>
+<functions>
+<functionEntry name="callback">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of your app here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onMenuItem">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize">
+<param id="bitmapResourcesArray"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="callback">
+<documentation/>
+</functionEntry>
+<functionEntry name="start">
+<param id="didUpdateCallback"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="stop">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
